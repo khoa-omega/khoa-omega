@@ -6,7 +6,7 @@
 
 <img src="assets/about_me.gif" width="15%">
 
-<a href="https://git.io/typing-svg" target="blank">![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&lines=Hi+there+👋,+I+am+Khoa;Welcome+to+my+profile!)</a>
+<a href="https://git.io/typing-svg">![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&lines=Hi+there+👋,+I+am+Khoa;Welcome+to+my+profile!)</a>
 
 </div>
 
@@ -14,18 +14,18 @@
 
 <div align="center">
 
-<a align="center" href="https://play.google.com/store/apps/details?id=khoa.omega.tetris" target="blank">
-    <img src="assets/tetris.png" width="25%">
+<a align="center" href="https://play.google.com/store/apps/details?id=khoa.omega.tetris">
+<img src="assets/tetris.png" width="25%">
     
-    Tetris: Classic Puzzle Game
+Tetris: Classic Puzzle Game
 </a>
 
 ---
 
-<a href="https://play.google.com/store/apps/details?id=khoa.omega.gplxv2" target="blank">
-    <img src="assets/gplx.png" width="25%">
+<a href="https://play.google.com/store/apps/details?id=khoa.omega.gplxv2">
+<img src="assets/gplx.png" width="25%">
 
-    Thi Sát Hạch GPLX - 600 Câu
+Thi Sát Hạch GPLX - 600 Câu
 </a>
 
 </div>
@@ -35,14 +35,14 @@
 <div align="center">
 
 <a href="https://play.google.com/store/apps/dev?id=5350544244189602428">
-    <img width="25%" src="assets/khoa-omega.png">
+<img width="25%" src="assets/khoa-omega.png">
 </a>
 
-<a href="https://www.youtube.com/@khoa-omega" target="blank">![](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=youtube)</a>
-<a href="https://facebook.com/omega.khoa" target="blank">![](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=facebook)</a>
+<a href="https://www.youtube.com/@khoa-omega">![](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=youtube)</a>
+<a href="https://facebook.com/omega.khoa">![](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=facebook)</a>
 
 <a href="https://open.spotify.com/user/31knmg77q6zxyjw4ftsftx5unftm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31knmg77q6zxyjw4ftsftx5unftm&count=1&unique=true" width="100%">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31knmg77q6zxyjw4ftsftx5unftm&count=1&unique=true" width="100%">
 </a>
 
 </div>
