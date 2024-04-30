@@ -14,25 +14,6 @@
 
 <div align="center">
 
-<a href="https://play.google.com/store/apps/details?id=khoa.omega.tetris">
-<img src="assets/tetris.png" width="25%">
-</a>
-
-<a href="https://play.google.com/store/apps/details?id=khoa.omega.tetris"><b>Tetris: Classic Puzzle Game</b></a>
-
----
-
-<a href="https://play.google.com/store/apps/details?id=khoa.omega.gplxv2">
-<img src="assets/gplx.png" width="25%"></a>
-
-<a href="https://play.google.com/store/apps/details?id=khoa.omega.gplxv2"><b>Thi Sát Hạch GPLX - 600 Câu</b></a>
-
-</div>
-
-###
-
-<div align="center">
-
 <a href="https://play.google.com/store/apps/dev?id=5350544244189602428">
 <img width="25%" src="assets/khoa-omega.png">
 </a>
@@ -43,6 +24,25 @@
 <a href="https://open.spotify.com/user/31knmg77q6zxyjw4ftsftx5unftm">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31knmg77q6zxyjw4ftsftx5unftm&count=1&unique=true" width="100%">
 </a>
+
+</div>
+
+###
+
+<div align="center">
+
+<a href="https://play.google.com/store/apps/details?id=khoa.omega.tetris">
+<img src="assets/tetris.png" width="20%">
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=khoa.omega.tetris" style="text-decoration: none"><b>Tetris: Classic Puzzle Game</b></a>
+
+###
+
+<a href="https://play.google.com/store/apps/details?id=khoa.omega.gplxv2">
+<img src="assets/gplx.png" width="20%"></a>
+
+<a href="https://play.google.com/store/apps/details?id=khoa.omega.gplxv2" style="text-decoration: none"><b>Thi Sát Hạch GPLX - 600 Câu</b></a>
 
 </div>
 
