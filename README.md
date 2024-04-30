@@ -6,7 +6,7 @@
 
 <img src="assets/about_me.gif" width="15%">
 
-<a href="https://git.io/typing-svg" target="_blank">![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&lines=Hi+there+👋,+I+am+Khoa;Welcome+to+my+profile!)</a>
+<a href="https://git.io/typing-svg" target="blank">![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&lines=Hi+there+👋,+I+am+Khoa;Welcome+to+my+profile!)</a>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<a href="https://play.google.com/store/apps/details?id=khoa.omega.tetris" target="_blank">
+<a align="center" href="https://play.google.com/store/apps/details?id=khoa.omega.tetris" target="blank">
     <img src="assets/tetris.png" width="25%">
     
     Tetris: Classic Puzzle Game
@@ -22,7 +22,7 @@
 
 ---
 
-<a href="https://play.google.com/store/apps/details?id=khoa.omega.gplxv2" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=khoa.omega.gplxv2" target="blank">
     <img src="assets/gplx.png" width="25%">
 
     Thi Sát Hạch GPLX - 600 Câu
@@ -38,8 +38,8 @@
     <img width="25%" src="assets/khoa-omega.png">
 </a>
 
-<a href="https://www.youtube.com/@khoa-omega" target="_blank">![](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=youtube)</a>
-<a href="https://facebook.com/omega.khoa" target="_blank">![](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=facebook)</a>
+<a href="https://www.youtube.com/@khoa-omega" target="blank">![](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=youtube)</a>
+<a href="https://facebook.com/omega.khoa" target="blank">![](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=facebook)</a>
 
 <a href="https://open.spotify.com/user/31knmg77q6zxyjw4ftsftx5unftm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31knmg77q6zxyjw4ftsftx5unftm&count=1&unique=true" width="100%">
@@ -49,19 +49,25 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/khoa-omega/khoa-omega/output/snake.svg" width="100%">
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/khoa-omega/khoa-omega/output/snake-dark.svg"
+    media="(prefers-color-scheme: dark)">
+  <source
+    srcset="https://raw.githubusercontent.com/khoa-omega/khoa-omega/output/snake-light.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+  <img src="https://raw.githubusercontent.com/khoa-omega/khoa-omega/output/snake-light.svg" width="100%">
+</picture>
 
 ###
 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=khoa-omega&show_icons=true&hide_border=true&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
->
+    media="(prefers-color-scheme: dark)">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=khoa-omega&show_icons=true&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
->
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
   <img src="https://github-readme-stats.vercel.app/api?username=khoa-omega&show_icons=true&hide_border=true" width="100%">
 </picture>
 
