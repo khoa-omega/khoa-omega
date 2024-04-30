@@ -14,19 +14,18 @@
 
 <div align="center">
 
-<a align="center" href="https://play.google.com/store/apps/details?id=khoa.omega.tetris">
+<a href="https://play.google.com/store/apps/details?id=khoa.omega.tetris">
 <img src="assets/tetris.png" width="25%">
-    
-Tetris: Classic Puzzle Game
 </a>
+
+<a href="https://play.google.com/store/apps/details?id=khoa.omega.tetris"><b>Tetris: Classic Puzzle Game</b></a>
 
 ---
 
 <a href="https://play.google.com/store/apps/details?id=khoa.omega.gplxv2">
-<img src="assets/gplx.png" width="25%">
+<img src="assets/gplx.png" width="25%"></a>
 
-Thi Sát Hạch GPLX - 600 Câu
-</a>
+<a href="https://play.google.com/store/apps/details?id=khoa.omega.gplxv2"><b>Thi Sát Hạch GPLX - 600 Câu</b></a>
 
 </div>
 
